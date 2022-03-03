@@ -1,0 +1,36 @@
+Test#1
+Looking for ABC
+[C, B, A,  ]
+[ ,  ,  ,  ]
+[ ,  ,  ,  ]
+Looking for BAOED
+[ , B, A,  ]
+[ ,  , O,  ]
+[ , D, E,  ]
+Looking for CNE
+[C,  ,  ,  ]
+[ , N,  ,  ]
+[ ,  , E,  ]
+Looking for NEC
+NEC not found!
+Looking for NEED
+[ ,  ,  ,  ]
+[ , N,  , D]
+[ ,  , E, E]
+Looking for NEEDON
+NEEDON not found!
+Test#2
+Looking for mop
+mop not found!
+Looking for comp
+[c, o, m, p]
+[ ,  ,  ,  ]
+[ ,  ,  ,  ]
+[ ,  ,  ,  ]
+Looking for omo
+omo not found!
+Looking for maa
+[ ,  ,  ,  ]
+[a, m,  ,  ]
+[a,  ,  ,  ]
+[ ,  ,  ,  ]
